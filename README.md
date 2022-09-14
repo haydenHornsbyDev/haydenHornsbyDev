@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @haydenHornsbyDev
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning html, css, and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at dev@haydenhornsby.xyz
+- 📫 Reach me at dev@haydenhornsby.xyz
 
 <!---
 haydenHornsbyDev/haydenHornsbyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
